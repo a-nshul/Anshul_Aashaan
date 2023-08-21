@@ -1,0 +1,15 @@
+.opwnwrt-input {
+  border: none !important;
+  height: 50px !important;
+}
+.btn-openwrt {
+  background-color: #1061a1;
+  color: white;
+  border: none !important;
+  font-weight: bold;
+}
+.btn-openwrt:hover {
+  background-color: #1061a1;
+  color: white;
+  border: none !important;
+}

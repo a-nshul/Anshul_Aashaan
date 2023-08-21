@@ -1,0 +1,23 @@
+.publicBody {
+  background-color: white;
+  height: 100vh;
+}
+.loginForm {
+  padding-top: 15%;
+}
+.loginCard {
+  height: 300px;
+}
+.card-title {
+  padding-top: 20px !important;
+}
+
+.aasan-head {
+  color: #1061a1;
+  font-weight: bold;
+}
+
+.aasan-logo {
+  width: 100px;
+  border-radius: 100px;
+}
